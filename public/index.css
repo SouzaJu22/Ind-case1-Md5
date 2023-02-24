@@ -1,0 +1,16 @@
+html, body, #root {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-image: url('./img/pAFte5.webp');
+}
+
+.colorTable {
+  color: white;
+}
+
+.colorTab tr {
+    color: white
+  }
